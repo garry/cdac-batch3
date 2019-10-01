@@ -4,4 +4,6 @@ int main()
 {
  printf("Hello World\n");
  printf("Hi again");
+printf("something bad code by second developr");
+
 }

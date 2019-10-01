@@ -2,8 +2,14 @@
 #include<stdio.h>
 int main()
 {
- printf("Hello World\n");
+ printf("Hello World\n")
+ printf("Hi again......bye bye now is modified");
  printf("Hi again");
 printf("something bad code by second developr");
 
 }
+
+ printf("Hi again......bye bye now is modified");
+ 
+}
+
